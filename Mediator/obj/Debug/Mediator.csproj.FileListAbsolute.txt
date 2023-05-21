@@ -1,0 +1,8 @@
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Mediator\Mediator\bin\Debug\Mediator.exe.config
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Mediator\Mediator\bin\Debug\Mediator.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Mediator\Mediator\bin\Debug\Mediator.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Mediator\Mediator\obj\Debug\Mediator.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Mediator\Mediator\obj\Debug\Mediator.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Mediator\Mediator\bin\Debug\Mediator.exe.config
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Mediator\Mediator\obj\Debug\Mediator.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Mediator\Mediator\obj\Debug\Mediator.pdb
